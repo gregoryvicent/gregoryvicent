@@ -13,8 +13,11 @@
 <a href="https://gregoryvicent.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://gregoryvicent.com" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gregoryvicent&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="gregoryvicent" /></p>
-
+<br />
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gregoryvicent&show_icons=true&locale=en&theme=synthwave" alt="gregoryvicent" /></p>
+<div>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gregoryvicent&show_icons=true&locale=en&theme=synthwave" alt="gregoryvicent" /></p>
+  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gregoryvicent&show_icons=true&locale=en&theme=synthwave" alt="gregoryvicent" /></p>
+</div>
