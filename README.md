@@ -12,6 +12,7 @@
 <a href="https://www.youtube.com/c/GregoryVicentCode" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gregory vicent tech" height="30" width="40" /></a>
 <a href="https://gregoryvicent.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://gregoryvicent.com" height="30" width="40" /></a>
 </p>
+<p align="left"><b>gregoryvicent.dev@gmail.com</b></p>
 
 <br />
 <br />
