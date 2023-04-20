@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/gregory-vicent-dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gregory vicent" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/GregoryVicentCode" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gregory vicent tech" height="30" width="40" /></a>
 <a href="https://medium.com/@gregoryvicent.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@gregoryvicent.dev" height="30" width="40" /></a>
-<a href="https://gregoryvicent.github.io/gregoryvicent.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://gregoryvicent.com" height="30" width="40" /></a>
+<a href="https://www.gregoryvicent.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://gregoryvicent.com" height="30" width="40" /></a>
 </p>
 <p align="left"><b>gregoryvicent.dev@gmail.com</b></p>
 
