@@ -1,4 +1,4 @@
-<h1 align="center">Hi Bro 👋, I'm Gregory Vicent</h1>
+<h1 align="center">Hi 👋, I'm Gregory Vicent</h1>
 <h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" alt="Meo Code" height="30" width="30"/> Lover of the dark secrets of programming <img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" alt="Meo Code" height="30" width="30"/></h3>
 
 [![gregoryvicentbanner.png](https://i.postimg.cc/43hC7dZv/gregoryvicentbanner.png)](https://postimg.cc/zL524qy3)
